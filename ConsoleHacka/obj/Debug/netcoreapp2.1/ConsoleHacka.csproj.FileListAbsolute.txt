@@ -1,0 +1,11 @@
+C:\Users\HAFN\source\repos\ConsoleHacka\bin\Debug\netcoreapp2.1\ConsoleHacka.deps.json
+C:\Users\HAFN\source\repos\ConsoleHacka\bin\Debug\netcoreapp2.1\ConsoleHacka.runtimeconfig.json
+C:\Users\HAFN\source\repos\ConsoleHacka\bin\Debug\netcoreapp2.1\ConsoleHacka.runtimeconfig.dev.json
+C:\Users\HAFN\source\repos\ConsoleHacka\bin\Debug\netcoreapp2.1\ConsoleHacka.dll
+C:\Users\HAFN\source\repos\ConsoleHacka\obj\Debug\netcoreapp2.1\ConsoleHacka.csprojAssemblyReference.cache
+C:\Users\HAFN\source\repos\ConsoleHacka\obj\Debug\netcoreapp2.1\ConsoleHacka.csproj.CoreCompileInputs.cache
+C:\Users\HAFN\source\repos\ConsoleHacka\obj\Debug\netcoreapp2.1\ConsoleHacka.AssemblyInfoInputs.cache
+C:\Users\HAFN\source\repos\ConsoleHacka\obj\Debug\netcoreapp2.1\ConsoleHacka.AssemblyInfo.cs
+C:\Users\HAFN\source\repos\ConsoleHacka\bin\Debug\netcoreapp2.1\ConsoleHacka.pdb
+C:\Users\HAFN\source\repos\ConsoleHacka\obj\Debug\netcoreapp2.1\ConsoleHacka.dll
+C:\Users\HAFN\source\repos\ConsoleHacka\obj\Debug\netcoreapp2.1\ConsoleHacka.pdb
